@@ -3,6 +3,8 @@ Shakespearean insult generator
 
 This tool takes 2 adjectives and a noun to construct
 a unique insult in the style of William Shakespeare.
+It uses a simple python script: 'insult_me_bill.py'.
+
 Some examples follow:
 
 Thy father is a loathly, foul-mouthed cot-quean.
