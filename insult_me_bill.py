@@ -3,7 +3,7 @@
 from random import randrange
 
 adj1 = [
-“apish",
+"apish",
 "artless",
 "bawdy",
 "beslubbering",
@@ -96,7 +96,7 @@ adj1 = [
 "yeasty"]
 
 adj2 = [
-“bald-pated",
+"bald-pated",
 "barren-spirited",
 "base-court",
 "bat-fowling",
